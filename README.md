@@ -2,7 +2,7 @@ Hello !
 
 Aspiring web Developper. 
 
-I'm currently learning Mern STack 
+I'm currently learning MERN Stack 
 
 
-My Grandm stil treats me like i was 8. 
+My Grandma stil treats me like i was 8. 
